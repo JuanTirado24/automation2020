@@ -12,7 +12,7 @@ public class SelTest {
 		// TODO Auto-generated method stub
 
 			
-		System.out.println("SelTest.main()" + "Adicionn");
+		System.out.println("SelTest.main()" + "Adicionn modificacion ");
 		// el file.separator indica el / y la idea es traer la ruta del proyecto.
 		String exePath = Paths.get("").toAbsolutePath().toString()+File.separator + "drivers"+File.separator;
 		
